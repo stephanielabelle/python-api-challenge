@@ -2,7 +2,7 @@
 
 The goal of this project is to determine changes in weather characteristics based on proximity to the equator.  This anaysis is in the [WeatherPy](WeatherPy\WeaterPy.ipynb) file located in this repository's WeatherPy folder.  
 
-Weather knowledge was then used to help determine key vacation cities based on weather parameters.  Geoapify Places was used to determine hotel options in these prime weather locations.  This analysis is in the [VacationPy](WeatherPy\VacationPy.ipynb) file located in this repository's WeatherPy folder.
+Weather knowledge was then used to help determine key vacation cities based on weather parameters.  Geoapify Places was used to determine hotel options in these prime weather locations.  This analysis is in the [VacationPy](WeatherPy/VacationPy.ipynb) file located in this repository's WeatherPy folder.
 
 ## WeatherPy
 A collection of over 500 random cities were obtained by utilizing Numpy random number generator to generate Latitude and Longitude coordinates.  CitiPy was then utilized to determine the nearest city to those generated coordinates.  
